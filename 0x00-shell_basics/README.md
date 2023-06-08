@@ -1,1 +1,1 @@
-Delete the file betty
+changes the working directory to the previous one.
